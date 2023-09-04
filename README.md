@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gilmerjose.vizconde2@gmail.com**
 
-- 📄 Know about my experiences [linkedin](www.linkedin.com/in/gilmer-j-vizconde)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/gilmer-j-vizconde">Linkedin</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
